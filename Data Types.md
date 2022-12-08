@@ -1,6 +1,6 @@
 # JavaScript
 
-## Variables
+## Data Types
 
 - JavaScript provides different data types to hold different types of values. There are two types 
 of data types in JavaScript. These are:
@@ -11,3 +11,12 @@ because it is dynamically used by JavaScript engine. You need to use var here to
 type. It can hold any type of values such as numbers, strings etc. For example: <br/>
    var a=40;//holding number  <br/>
    var b="Rahul";//holding string  <br/>
+### Primitive Data Types
+- There are five types of primitive data types in JavaScript. They are as follows: <br/>
+| Data Type | Description |
+| --- | --- |
+| String | represents sequence of characters e.g. "hello" |
+| Number | represents numeric values e.g. 100 |
+| Boolean | represents boolean value either false or true |
+| Undefined | represents undefined value |
+| Null | represents null i.e. no value at all |
