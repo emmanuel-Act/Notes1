@@ -8,9 +8,9 @@
   - After first letter we can use digits (0 to 9), for example value1.
   - JavaScript variables are case sensitive, for example x and X are different variables.
 - Example of JavaScript variable:
-  - <script>  
+  - <script>  <br/>
       var x = 10; <br/>
       var y = 20; <br/>  
       var z=x+y;  <br/>  
-      document.write(z);  
+      document.write(z); <br/> 
     </script>    
