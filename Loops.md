@@ -66,10 +66,10 @@ iteration is not known. The syntax of while loop is given below. <br/>
   i++;  <br/>
   }while (i<=25);  <br/>
   </script>  <br/>
-    output: <br/>
-    21  <br/>
-    22  <br/>
-    23  <br/>
-    24  <br/>
-    25  <br/>
+    output: 
+    21  
+    22  
+    23  
+    24  
+    25  
 
