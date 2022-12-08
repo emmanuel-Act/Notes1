@@ -7,7 +7,7 @@
   - Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.
   - After first letter we can use digits (0 to 9), for example value1.
   - JavaScript variables are case sensitive, for example x and X are different variables.
-- Example of JavaScript variable:
+- Example of JavaScript variable: <br/>
    <script>  <br/>
       var x = 10; <br/>
       var y = 20; <br/>  
