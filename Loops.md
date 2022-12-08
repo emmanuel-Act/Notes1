@@ -59,7 +59,7 @@ iteration is not known. The syntax of while loop is given below. <br/>
     code to be executed  <br/>
     }while (condition);  <br/>
 - Example:<br/>
-<script>  
+<script>  <br/>
   var i=21;  <br/>
   do{  <br/>
   document.write(i + "<br/>");  <br/>
@@ -67,9 +67,9 @@ iteration is not known. The syntax of while loop is given below. <br/>
   }while (i<=25);  <br/>
   </script>  <br/>
     output: <br/>
-    21 <br/>
-    22<br/>
-    23<br/>
-    24<br/>
-    25<br/>
+    21  <br/>
+    22  <br/>
+    23  <br/>
+    24  <br/>
+    25  <br/>
 
