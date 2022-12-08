@@ -74,7 +74,7 @@ iteration is not known. The syntax of while loop is given below. <br/>
     25  
 
 ### JavaScript for in loop
-- The JavaScript for in loop is used to iterate the properties of an object. The syntax for it is given below<br/>
+- The JavaScript for in loop is used to iterate the properties of an object. The syntax for it is given below.<br/>
   for (key in object) {<br/>
   // code block to be executed<br/>
   }<br/>
@@ -86,8 +86,9 @@ iteration is not known. The syntax of while loop is given below. <br/>
   for (let x in person) {<br/>
   txt += person[x] + " ";<br/>
   }<br/><br/>
-document.getElementById("demo").innerHTML = txt;<br/>
+  document.getElementById("demo").innerHTML = txt;<br/>
   
   </script><br/>
-    output: John Doe 25
+  
+  output: John Doe 25
    
