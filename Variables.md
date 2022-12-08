@@ -20,4 +20,11 @@
   function abc(){  <br/>
   var x=10;//local variable <br/> 
   }  <br/>
+  </script>  <br/>
+  Or,<br/>
+  <script>  <br/>
+  If(10<13){  <br/>
+  var y=20;//JavaScript local variable <br/> 
+  }  <br/>
   </script>  
+  
