@@ -9,8 +9,8 @@
   - JavaScript variables are case sensitive, for example x and X are different variables.
 - Example of JavaScript variable:
   - <script>  
-      var x = 10; 
-      var y = 20;    
-      var z=x+y;    
+      var x = 10; <br/>
+      var y = 20; <br/>  
+      var z=x+y;  <br/>  
       document.write(z);  
     </script>    
