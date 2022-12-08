@@ -23,7 +23,7 @@ if number of iteration is known. The syntax of for loop is given below. <br/>
   document.write(i + "<br/>")  <br/>
   }  <br/>
   </script>  <br/>
-    output: 
+    output: <br/>
     1<br/>
     2<br/>
     3<br/>
@@ -46,7 +46,7 @@ iteration is not known. The syntax of while loop is given below. <br/>
   i++;  <br/>
   }  <br/>
   </script>  <br/>
-    output: 
+    output: <br/>
     11<br/>
     12<br/>
     13<br/>
