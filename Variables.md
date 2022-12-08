@@ -24,7 +24,20 @@
   Or,<br/>
   <script>  <br/>
   If(10<13){  <br/>
-  var y=20;//JavaScript local variable <br/> 
+  var y=20;//local variable <br/> 
   }  <br/>
+  </script>  
+### Global Variables
+- A JavaScript global variable is accessible from any function. A variable i.e. declared outside the function or declared with window object is known as global variable. For example:<br/>
+  <script>  <br/>
+  var data=200;//gloabal variable  <br/>
+  function a(){  <br/>
+  document.writeln(data);  <br/>
+  }  <br/>
+  function b(){  <br/>
+  document.writeln(data);  <br/>
+  }  <br/>
+  a();//calling JavaScript function  <br/>
+  b();  <br/>
   </script>  
   
