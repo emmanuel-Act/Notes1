@@ -44,5 +44,38 @@
     else{  <br/>
     document.write("a is odd number");  <br/>
     }  <br/>
-    </script>   
+    </script>
+    
+###JavaScript If...else if Statement
+- It evaluates the content only if expression is true from several expressions. The signature of JavaScript if else if statement is given below.<br/>
+    if(expression1){  <br/>
+    //content to be evaluated if expression1 is true  <br/>
+    }  <br/>
+    else if(expression2){  <br/>
+    //content to be evaluated if expression2 is true  <br/>
+    }  <br/>
+    else if(expression3){  <br/>
+    //content to be evaluated if expression3 is true  <br/>
+    }  <br/>
+    else{  <br/>
+    //content to be evaluated if no expression is true  <br/>
+    }  
+  - The flow chart of a JavaScript if...else if statement looks like the one below.<br/>
+  
+  - Example of if statement in JavaScript: <br/>
+    <script>  <br/>
+    var a=20;  <br/>
+    if(a==10){  <br/>
+    document.write("a is equal to 10");  <br/>
+    }  <br/>
+    else if(a==15){  <br/>
+    document.write("a is equal to 15");  <br/>
+    }  <br/>
+    else if(a==20){  <br/>
+    document.write("a is equal to 20");  <br/>
+    }  <br/>
+    else{  <br/>
+    document.write("a is not equal to 10, 15 or 20");  <br/>
+    }  <br/>
+    </script>  
 
