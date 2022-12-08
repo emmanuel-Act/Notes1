@@ -14,3 +14,10 @@
       var z=x+y;  <br/>  
       document.write(z); <br/> 
     </script>    
+### Local Variables
+- A JavaScript local variable is declared inside block or function. It is accessible within the function or block only. For example:<br/>
+  <script>  <br/>
+  function abc(){  <br/>
+  var x=10;//local variable <br/> 
+  }  <br/>
+  </script>  
