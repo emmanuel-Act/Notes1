@@ -23,7 +23,7 @@
     }  <br/>
     </script>  
     
-    ###JavaScript If...else Statement
+    ### JavaScript If...else Statement
 - It evaluates the content whether condition is true of false. The syntax of JavaScript if-else statement is given below.<br/>
   if(expression){  <br/>
   //content to be evaluated if condition is true  <br/>
@@ -46,7 +46,7 @@
     }  <br/>
     </script>
     
-###JavaScript If...else if Statement
+### JavaScript If...else if Statement
 - It evaluates the content only if expression is true from several expressions. The signature of JavaScript if else if statement is given below.<br/>
     if(expression1){  <br/>
     //content to be evaluated if expression1 is true  <br/>
