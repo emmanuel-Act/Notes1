@@ -13,6 +13,7 @@ type. It can hold any type of values such as numbers, strings etc. For example: 
    var b="Rahul";//holding string  <br/>
 ### Primitive Data Types
 - There are five types of primitive data types in JavaScript. They are as follows: <br/>
+
 | Data Type | Description |
 | --- | --- |
 | String | represents sequence of characters e.g. "hello" |
