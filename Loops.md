@@ -52,3 +52,24 @@ iteration is not known. The syntax of while loop is given below. <br/>
     13<br/>
     14<br/>
     15<br/>
+    
+### JavaScript do while loop
+- The JavaScript do while loop iterates the elements for the infinite number of times like while loop. But, code is executed at least once whether condition is true or false. The syntax of do while loop is given below. <br/>
+  do{  <br/>
+    code to be executed  <br/>
+    }while (condition);  <br/>
+- Example:<br/>
+<script>  
+  var i=21;  <br/>
+  do{  <br/>
+  document.write(i + "<br/>");  <br/>
+  i++;  <br/>
+  }while (i<=25);  <br/>
+  </script>  <br/>
+    output: <br/>
+    21<br/> <br/>
+    22<br/><br/>
+    23<br/><br/>
+    24<br/><br/>
+    25<br/><br/>
+
