@@ -23,11 +23,12 @@ if number of iteration is known. The syntax of for loop is given below. <br/>
   document.write(i + "<br/>")  <br/>
   }  <br/>
   </script>  <br/>
-    output: 1<br/>
-            2<br/>
-            3<br/>
-            4<br/>
-            5<br/>
+    output: 
+    1<br/>
+    2<br/>
+    3<br/>
+    4<br/>
+    5<br/>
             
 ### JavaScript while loop
 - The JavaScript while loop iterates the elements for the infinite number of times. It should be used if number of 
@@ -45,8 +46,9 @@ iteration is not known. The syntax of while loop is given below. <br/>
   i++;  <br/>
   }  <br/>
   </script>  <br/>
-    output: 11<br/>
-            12<br/>
-            13<br/>
-            14<br/>
-            15<br/>
+    output: 
+    11<br/>
+    12<br/>
+    13<br/>
+    14<br/>
+    15<br/>
