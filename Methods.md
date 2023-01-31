@@ -26,8 +26,8 @@
 - The fullName property will execute (as a function) when it is invoked with ().
 - Example: name = person.fullname();
 ### Adding a method to an object
-- An example would be:
-  person.name = function () {
-    return this.firstName + " " + this.lastName;
+- An example would be: <br/>
+  person.name = function () { <br/>
+    return this.firstName + " " + this.lastName; <br/>
   };
   
