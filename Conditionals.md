@@ -35,7 +35,7 @@
   }  <br/>
   - The flow chart of a JavaScript if...else statement looks like the one below.<br/>
   
-  ![Flow Chart](https://www.javatpoint.com/images/core/if2.png "If statement flow chart")
+  ![Flow Chart]([https://www.javatpoint.com/images/core/if2.png "If statement flow chart"](https://th.bing.com/th/id/OIP.nHBdSnyNZ_ZW45j-AnQ73gHaId?pid=ImgDet&w=2445&h=2795&rs=1))
   
   - Example of if statement in JavaScript: <br/>
     <script>  <br/>
